@@ -1,5 +1,6 @@
 Pokémon Mystery Dungeon: Adventure Squad Shiny Patch Readme:
 Version 1.0
+Shiny Patch By: SaltedNeos
 
 This mod was built on top of the previous English Translation project for these games,
 and attempts to add all missing shiny Pokemon into the game. Currently shiny Pokemon
